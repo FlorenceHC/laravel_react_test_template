@@ -104,7 +104,7 @@ The user field contains a JSON object which is made up of the unique id and name
 
 
 ## Optional (Advanced)
-The following features are *not required* but they are a great opportunity to showcase even better your skills.
+The following features are *not required* for the completion of the task but they are a great opportunity to showcase even better your skills.
 
 #### Caching:
 Implement caching so that for each unique username, the external API is called at most once during a set period (for example, 30 minutes). Subsequent requests within this time frame should return cached data. Caching could be implemented in the backend, frontend, or both.
